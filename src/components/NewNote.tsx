@@ -1,4 +1,4 @@
-import NoteForm from './NoteForm';
+import NoteForm from "./NoteForm";
 
 function NewNote() {
   return (
@@ -9,4 +9,4 @@ function NewNote() {
   );
 }
 
-export default NewNote;
+export default NewNote
